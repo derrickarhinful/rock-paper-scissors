@@ -42,7 +42,15 @@
        .move-button:active{
     opacity: .54;
   }
-  
 
+  .reset-confirmation{
+    margin-top: 10px;
+  }
 
-    
+  .button{
+    margin-left: 5px;
+    height: 30px;
+    width: 40px;
+    cursor: pointer;
+    transform: scale(.95);
+  }
